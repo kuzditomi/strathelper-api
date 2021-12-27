@@ -1,0 +1,26 @@
+{
+  "name": "strathelper-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-kuzditomi:kuzditomi/strathelper-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "volta": {
+    "node": "16.13.1",
+    "npm": "8.3.0"
+  }
+}
